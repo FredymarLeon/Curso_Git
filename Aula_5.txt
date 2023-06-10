@@ -1,0 +1,500 @@
+   30  cd recursos/
+   31  pwd recursos/
+   32  ls
+   33  mkdir -p estudios / milhon
+   34  ls
+   35  pkdir -p estudios/milhon
+   36  mkdir -p estudios/milhon
+   37  ls
+   38  ls estudios/
+   39  ls
+   40  rm -r esturios/
+   41  rm -r estudios
+   42  ls
+   43  rm -r familia
+   44  ls
+   45  rm -r recursos familiar
+   46  rm -r 'recursos familiar'
+   47  ls
+   48  rm -r hurtado
+   49  ls
+   50  rm -r milhon
+   51  ls
+   52  rm -r Comandos
+   53  ls
+   54  mkdir amor
+   55  ls
+   56  mv 'amor'
+   57  mv 'amor' amor1
+   58  ls
+   59  mkdir nueva
+   60  ls
+   61  ls
+   62  mv nueva amor1
+   63  ls
+   64  ls amor1/
+   65  touch arquivo.txt
+   66  ls
+   67  cp arquivo.txt amor1
+   68  ls
+   69  ls arquivo.txt
+   70  ls amor1
+   71  ls nueva
+   72  ls nueva/
+   73  echo 'hola amiga'
+   74  echo 'hola amiga' >
+   75  echo 'hola amiga'>
+   76  echo 'hola amiga' > amor1
+   77  ls
+   78  ls
+   79  echo 'hola amiga'
+   80  echo 'hola amiga' > arquivo.tex
+   81  help cd
+   82  clear
+   83  history
+   84  history 5
+   85  history 5
+   86  claer
+   87  clear
+   88  ls
+   89  rm -r
+   90  ls
+   91  rm -r arquivo.txt
+   92  ls
+   93  mr -r arquivo.tex
+   94  ls
+   95  mr -r amor1
+   96  mr -r amor1/
+   97  ls
+   98  pwd
+   99  ls documents
+  100  ls documens/
+  101  clear
+  102  ls
+  103  ls -5
+  104  ls ..
+  105  pwd
+  106  ls
+  107  cd amor1
+  108  cd ..
+  109  cd ~
+  110  mkdir 'programacion'
+  111  ls
+  112  mkdir estudios
+  113  ls
+  114  ls 'programacion estudios'
+  115  ls
+  116  mkdir 'sol luna'
+  117  ls
+  118  mkdir lluvia sol
+  119  ls
+  120  mkdir -p amigos/amigosbuenos
+  121  ls
+  122  ls amigos/
+  123  mr-r amigos
+  124  mr -r amigos
+  125  mr -r amigos/
+  126  mr -ramigos
+  127  mr -r 'amigos'
+  128  clear
+  129  ls
+  130  mr -r sol
+  131  rm -r sol luna
+  132  ls
+  133  rm -r 'sol luna'
+  134  ls
+  135  rm -r programacion
+  136  rm -r lluvia
+  137  rm -r estudios
+  138  rm -r amigos
+  139  ls
+  140  mkdir Programacion
+  141  ls
+  142  ls
+  143  mv PROGRAMACION PROGRAMACION1
+  144  LS
+  145  MKDIR ESTUDIAR
+  146  mv programacion1 estudiar
+  147  ls
+  148  ls estudiar/
+  149  ls estudiar
+  150  mkdir clase 1
+  151  cp clase1 estudiar
+  152  ls
+  153  cp clase1 programacion1
+  154  touch clase1
+  155  ls
+  156  cp clase1 estudiar
+  157  ls
+  158  ls estudiar
+  159  cat clase1
+  160  ls clase1
+  161  3
+  162  4
+  163  cat
+  164  history
+  165  git config --global user.name 'Fredymar Leon'
+  166  git config --global user.email 'fredymar.leon@gmail.com'
+  167  git config
+  168  git config user.name
+  169  cd desktop
+  170  ls cd
+  171  ls
+  172  rm -r estudiar
+  173  ls
+  174  rm -r clase
+  175  ls
+  176  cd documentos
+  177  ls
+  178  ls clase1
+  179  ls
+  180  rm -r clase1
+  181  ls
+  182  cd documentos
+  183  cd ~
+  184  cd documentos
+  185  ls
+  186  git config
+  187  git config user.name
+  188  ls
+  189  cd ..
+  190  ls
+  191  cd ~
+  192  git config user.name
+  193  git config user.nome
+  194  cd desktop
+  195  cd Curso_Git/
+  196  mkdir Curso_Git
+  197  cd Curso_Git/
+  198  git congir user.nome
+  199  git config user.name
+  200  git init
+  201  git statud
+  202  git status
+  203  cat '#Aprendendo usar o Git' readme.md
+  204  git status
+  205  echo '#Aprendendo usar o Git' > readme.md
+  206  git status
+  207  sl
+  208  ls
+  209  cd desktop
+  210  ls
+  211  cd curso_git
+  212  ls
+  213  cd desktop
+  214  ls
+  215  cd Curso_Git/
+  216  touch '#Aprendendo usar o Git' > readme.md
+  217  git status
+  218   git add readme.md
+  219  git status
+  220  git add readme.md
+  221  git status
+  222  ls
+  223  cd readme.md
+  224  git add readme.md
+  225  git status
+  226  git commit -n 'Comit inicial'
+  227  git config --global user.name
+  228  cd Desktop
+  229  mkdir Curso_Git
+  230  cd curso_git
+  231  git config user.name
+  232  git init
+  233  git status
+  234  git config user.nome
+  235  git config --global user.name
+  236  cd Desktop/'
+  237  git config --global user.name
+  238  ls
+  239  cd Desktop/
+  240  mkdir Curso_Git
+  241  mkdir Curso_Git
+  242  ls
+  243  cd Curso_Git/
+  244  git init
+  245  git status
+  246  echo "#Aprendendo usas o Git" > readme.md
+  247  git status
+  248  git add readme.md
+  249  git status
+  250  git commit -m "commit inicial"
+  251  git status
+  252  echo "##Aula 1" >> readme.md
+  253  git status
+  254  echo "Fredymar Leon" > participantes.txt
+  255  git status
+  256  git add .
+  257  git status
+  258  git restore --staged participantes.txt
+  259  git status
+  260  git add participantes.txt 
+  261  git status
+  262  git restore --staged .
+  263  git ststus
+  264  git status
+  265  git commit -am 'Alteracão no readme'
+  266  git status
+  267  git add "participantes.txt"
+  268  git status
+  269  git commit -m "Adicionado partipantes.txt"
+  270  history > Aula_3.txt
+  271  git status
+  272  git add .
+  273  git commit -m "Comandos da Aula 3"
+  274  git status
+  275  git log
+  276  git log --autor= 'Fredymar Leon'
+  277  clear
+  278  ls
+  279  pwd Desktop/
+  280  cd Desktop/
+  281  ls
+  282  cd Curso_Git/
+  283  cd AULA 3
+  284  ls
+  285  git log
+  286  git log --pretty=oneline
+  287  git log --stat
+  288  git log -p
+  289  git log -p -2
+  290  git log -p-12
+  291  git log -p -15
+  292  git log -p -1
+  293  git log --since=2.days
+  294  git log --author='Fredymar Leon'
+  295  git reset --soft head~
+  296  pwd adicionar participantes.txt
+  297  git reset --soft head~
+  298  pwd readme
+  299  git status
+  300  git log --pretty=oneline -p -2
+  301  git checkout head~~
+  302  ~pwd Aula 3
+  303  pwd comandos da Aula_3.txt 
+  304  ls
+  305  cd
+  306  ls
+  307  clear
+  308  ls
+  309  pwd Desktop/
+  310  status
+  311  git status
+  312  clear
+  313  ls
+  314  pwd Desktop/
+  315  cd Desktop/
+  316  ls
+  317  cd Curso_Git/
+  318  ls
+  319  git status
+  320  clear
+  321  git branch
+  322  git checkout -b feature
+  323  git branch
+  324  touch Nova_feature
+  325  git status
+  326  git add Nova_feature
+  327  git commit -m 'Adicionando nova feature'
+  328  git log
+  329  git chechout master
+  330  git checkout master
+  331  git log
+  332  git status
+  333  git log
+  334  git checkout -b clear
+  335  ls
+  336  pwd Desktop/
+  337  cd Desktop/
+  338  ls
+  339  cd Curso_Git/
+  340  clear
+  341  ls
+  342  git reset --soft
+  343  ls
+  344  ls
+  345  pwd Desktop/
+  346  cd Desktop/
+  347  ls
+  348  cd Curso_Git/
+  349  ls
+  350  pwd Desktop/
+  351  ls
+  352  cd Desktop/
+  353  ls
+  354  cd Curso_Git/
+  355  git status
+  356  git log
+  357  git reset master
+  358  ls
+  359  git log --sice=2.days
+  360  clear
+  361  git log
+  362  ls
+  363  pwd Desktop/
+  364  cd Desktop/
+  365  ls
+  366  cd Curso_Git/
+  367  git log
+  368  ls
+  369  ls
+  370  git status
+  371  ls
+  372  pwd Desktop/
+  373  cd Desktop/
+  374  ls
+  375  cd Curso_Git/
+  376  echo 'Aprendendo usar o Git'
+  377  touch readme.md
+  378  mv aprendendo usar o git readme.md
+  379  ls
+  380  status
+  381  git status
+  382  ls
+  383  pwd Desktop/
+  384  cd Desktop/
+  385  echo '#Aprendendo usar o Git' > readme.md
+  386  git status
+  387  git status
+  388  ls
+  389  pwd Desktop/
+  390  cd Desktop/
+  391  ls
+  392  cd Curso_Git/
+  393  git status
+  394  mkdir Curso_Git
+  395  cd Curso_Git/
+  396  git init
+  397  git status
+  398  echo '#Aprendendo usar o Git' > readme.md
+  399  git status
+  400  git add readme.md
+  401  git status
+  402  git commit -m 'Commit inicial'
+  403  git status
+  404  echo '##Aula1' >> readme.md
+  405  git status
+  406  echo 'FFredymar Leon' > participantes.txt
+  407  git status
+  408  git add .
+  409  git status
+  410  git restore --staged participantes.txt
+  411  git status
+  412  git add participantes.txt
+  413  git status
+  414  git restore --staged .
+  415  git status
+  416  git commit -am 'Alteração no readme'
+  417  git status
+  418  git add participantes.txt 
+  419  git status
+  420  git commit -m 'Adicionado participantes.txm'
+  421  history > /Aula _3.txt
+  422  history > Aula_3.txt
+  423  git status
+  424  git add .
+  425  git commit -m 'Comandos da Aula_3'
+  426  git log
+  427  clear
+  428  git log
+  429  clear
+  430  ls
+  431  pwd Curso_Git/
+  432  cd Curso_Git/
+  433  git status 
+  434  git status
+  435  ls
+  436  git log
+  437  git log --pretty=oneline
+  438  git log ---stat
+  439  git log --stat
+  440  git log -p
+  441  git log --pretty=oneline -3
+  442  git log --since=2.minutes
+  443  git log --since=1.weeks
+  444  git log --author='Fredymar Leon'
+  445  gitstatus
+  446  git status
+  447  git log
+  448  touch teste
+  449  git add teste
+  450  git status
+  451  git commit -m 'Commit de teste'
+  452  git log
+  453  git reset --soft HEAD
+  454  git log
+  455  git reset --soft HEAD~
+  456  git log
+  457  git status
+  458  git commit -m 'Commit de teste'
+  459  git log
+  460  git reset --hard head~
+  461  git status
+  462  git log --pretty=oneline
+  463  git checkout HEAD~2
+  464  git status
+  465  git log
+  466  ls
+  467  git checlout master
+  468  git checkout master
+  469  git checkout~3
+  470  git log
+  471  ls
+  472  mkdir .vscode
+  473  touch conf.txt
+  474  mv conf.txt .vscode
+  475  ls .vscode
+  476  ls
+  477  ls -a
+  478  echo '.vscode' > .gitignore
+  479  git status
+  480  touch pessoal.conf
+  481  git status
+  482  echo 'pessoal.conf' >> .gitignore
+  483  git status
+  484  git add  .gitignore
+  485  git commit -m 'Adicionado arquivo .gitignore'
+  486  git status
+  487  dit add qls
+  488  git add qls
+  489  git commit -m 'qlm'
+  490  git status
+  491  history > Aula_4.txt
+  492  git status
+  493  git add .
+  494  git commit -m 'Comandos da Aula 4'
+  495  history
+  496  clean
+  497  clear
+  498  git branch
+  499  git checkout -b feature
+  500  git branch
+  501  touch Nova_feature
+  502  git status
+  503  git add Nova_feature
+  504  git commit -m 'Adicionar nova feature'
+  505  git log
+  506  git checkout master
+  507  git status
+  508  git log
+  509  touch Continuando_master
+  510  git add Continuando_master
+  511  git commit -m 'Adicionado continuação na master'
+  512  git checkout feature
+  513  git log
+  514  git checkout -b feature2 master
+  515  git log
+  516  git checkout feature2
+  517  git brand -d festure2
+  518  clear
+  519  git checkout feature
+  520  git log --pretty=oneline --graph
+  521  git merge master
+  522  git log
+  523  git log --pretty=oneline --graph
+  524  git reset --hard head~
+  525  git log --pretty=oneline --graph
+  526  git rebase master
+  527  git log --pretty=oneline--graph
+  528  git log --pretty=oneline --graph
+  529  history > Aula_5.txt
